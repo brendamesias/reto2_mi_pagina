@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+}
+header h4{
+  display: inline;
+}
+.contact p{
+  margin: 10px;
+}
+.whatWeDo{
+  margin-left: 10%;
+}
+header{
+  height: 3em;
+}
+.card_tittle img{
+  width: 100% auto;
+  height: auto;
+}
+.container_cards{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
