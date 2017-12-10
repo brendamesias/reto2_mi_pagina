@@ -23,7 +23,6 @@
 [class*='col-'] {
   float: left;
   float: left;
-  background:rgb(243, 244, 245);
   outline: 1px solid rgb(225, 65, 185);
 }
 

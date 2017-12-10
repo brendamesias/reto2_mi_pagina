@@ -1,14 +1,21 @@
 body{
   margin: 0;
 }
+header{
+  background-color: #343A40;
+  color: white;
+}
 header h4{
   display: inline;
 }
 .contact p{
   margin: 10px;
 }
+.contact{
+  margin:  2% 7%;
+}
 .whatWeDo{
-  margin-left: 10%;
+  margin: 2% 7%;;
 }
 header{
   height: 3em;
@@ -22,4 +29,6 @@ header{
 }
 footer{
   text-align: center;
+  background-color: #343A40;
+  color: white;
 }
