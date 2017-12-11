@@ -37,6 +37,7 @@ footer{
   text-align: center;
   background-color: #343A40;
   color: white;
+  height: 50%;
 }
 button{
   cursor: pointer;
