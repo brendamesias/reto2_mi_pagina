@@ -38,3 +38,11 @@ footer{
   background-color: #343A40;
   color: white;
 }
+button{
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 7%;
+  padding: 1%;
+  margin-bottom: 5%;
+}
